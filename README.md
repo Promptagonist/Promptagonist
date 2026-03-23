@@ -23,7 +23,7 @@ I architect the future of creative tools. By combining frontier AI models with r
 
 If you're building something ambitious with AI, let's talk. I'm always looking for new challenges and visionary partners.
 
-- **Email:** [will.pryor.junior@gmail.com](mailto:will.pryor.junior@gmail.com)
+- **Email:** [github@authormated.com](mailto:github@authormated.com)
 - **Phone:** 727-697-7491
 
 ---
