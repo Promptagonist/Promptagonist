@@ -44,3 +44,5 @@ If you're building ambitious multi-agent infrastructure or sovereign AI systems,
 * **Platforms:** [Authorologist.com](https://authorologist.com) | [Authormated.com](https://authormated.com)
 
 *System Status: Online | Main Engine Ready to Build.*  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Promptagonist)](https://git.io/streak-stats)
