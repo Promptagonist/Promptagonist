@@ -45,4 +45,4 @@ If you're building ambitious multi-agent infrastructure or sovereign AI systems,
 
 *System Status: Online | Main Engine Ready to Build.*  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Promptagonist)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Promptagonist&theme=dark&border_radius=4.5&timezone=ET&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
